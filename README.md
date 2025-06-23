@@ -1,4 +1,4 @@
-# hack_html_1_h6## 🧑‍💼 Mis datos
+## 🧑‍💼 Mis datos
 - *Nombre:* Antonio Jose
 - *Apellido:* Araujo Pacheco
 - *Teléfono:* ‪+58424138-4511‬
